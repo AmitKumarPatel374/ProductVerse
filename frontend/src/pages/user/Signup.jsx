@@ -85,7 +85,7 @@ const Signup = () => {
             minLength: {
               value: 4,
               message: "Minimum 4 digit password is required"
-            }
+            } 
           })}
           className="bg-white px-[10px] py-[10px] rounded-[5px] mx-[30px] mt-[20px] border"
           type="password"
